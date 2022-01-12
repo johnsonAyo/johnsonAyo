@@ -8,7 +8,7 @@
 
 > A product Engineer  passionate about web development and helping people turn their ideas to websites and app that works.
 
-#### 💼 Currently working as: software engineer at [Decagon](https://www.decagon.com/)
+#### 💼 Currently working as: software engineer at [Decagon](https://decagon.institute/)
 
 📚 I’m currently learning Reactjs, Typescript, Node.js, postgress and MongoDB.
 
