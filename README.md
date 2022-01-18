@@ -10,7 +10,7 @@
 
 #### 💼 Currently working as: software engineer at [Decagon](https://decagon.institute/)
 
-📚 I’m currently learning Reactjs, Typescript, Node.js, postgress and MongoDB.
+📚 I’m currently learning Reactjs, Typescript, Node.js, Solidity,  postgress, GraphQL and MongoDB.
 
 - 👯  I’m looking to collaborate on Web development and Open Source Projects.
 
