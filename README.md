@@ -8,7 +8,7 @@
 
 > A product Engineer  passionate about web development and helping people turn their ideas to websites and app that works.
 
-#### 💼 Currently working as: software engineer at [Decagon](https://decagon.institute/)
+#### 💼 Currently working as: software engineer at [Team Coaches](https://teamcoach.es/)
 
 📚 I’m currently learning Reactjs, Typescript, Node.js, Solidity,  postgress, GraphQL and MongoDB.
 
